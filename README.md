@@ -17,12 +17,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/grantgremillion/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/grantgremillion/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/grantgremillion/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/grantgremillion/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/grantgremillion/azure-network-protocols)
+  - [osTicket: Prerequisites and Installation](https://github.com/grantgremillion/osticket)
+- <b>Active Directory</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/grantgremillion/activedirectory)
 
 <h2> 🤳 Connect with me:</h2>
 
