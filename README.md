@@ -1,4 +1,4 @@
-<h1>Hello, I'm Grant! <br /> <a href="https://www.linkedin.com/in/grantgremillion333/">Aspiring IT Professional</a> and <a href="https://github.com/grantgremillion">Programmer</a> </h1>
+<h1>Hello, I'm Grant! <br /> <a href="https://www.linkedin.com/in/grantgremillion333/">IT Professional</a> and <a href="https://github.com/grantgremillion">Programmer</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
