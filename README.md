@@ -24,6 +24,7 @@
   - [Active Directory(Part 1): Azure VM Setup](https://github.com/GrantGremillion/P1-azure_vm_setup)
   - [Active Directory(Part 2): Deploying Active Directory](https://github.com/GrantGremillion/P2-active-directory-deployment)
   - [Active Directory(Part 3): Final Configurations + Testing](https://github.com/GrantGremillion/P3-final-configurations-testing)
+- <b>[Home Networking Labs](https://github.com/GrantGremillion/Home-Networking-Labs)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
